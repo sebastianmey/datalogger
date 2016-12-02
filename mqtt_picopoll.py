@@ -1,14 +1,4 @@
 #!/usr/bin/python3
-"""
-Created on Sat Jan 31 17:35:36 2015
-
-@author:    Sebastian Mey
-            Institut für Kernphysik
-            Forschungszentrum Jülich GmbH
-            
-            s.mey@fz-juelich.de
-"""
-
 import getopt, os, sys, subprocess, math, time, datetime as dt
 import numpy as np
 import matplotlib.pyplot as plt

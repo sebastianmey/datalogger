@@ -1,12 +1,5 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
-
-'''
-Created on Fri Aug  20 10:14:05 2015
-@author:    Sebastian Mey, Institut für Kernphysik, Forschungszentrum Jülich GmbH      
-            s.mey@fz-juelich.de
-'''
-
 import array, getopt, os, sys, time, xdrlib, paho.mqtt.client as mqtt
 
 

@@ -1,13 +1,4 @@
 #!/usr/bin/python3
-"""
-Created on Mon Feb  2 22:20:05 2015
-
-@author:    Sebastian Mey
-            Institut für Kernphysik
-            Forschungszentrum Jülich GmbH
-            
-            s.mey@fz-juelich.de
-"""
 import getopt, os, sys, subprocess, time, paho.mqtt.publish as publish
 
 def usage():

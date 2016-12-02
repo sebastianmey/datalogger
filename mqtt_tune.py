@@ -1,10 +1,5 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-"""
-Created on Mo Nov 21 15:45:50 2015
-@author:    Sebastian Mey, Institut für Kernphysik, Forschungszentrum Jülich
-            s.mey@fz-juelich.de
-"""
 import getopt, os, sys, time
 import visa
 import paho.mqtt.client as mqtt

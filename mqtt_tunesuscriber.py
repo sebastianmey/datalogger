@@ -1,12 +1,5 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Aug 3 14:08:50 2015
-@author:    Sebastian Mey, Institut für Kernphysik, Forschungszentrum Jülich GmbH
-            s.mey@fz-juelich.de
-"""
-
-
 import getopt, math, os, sys, datetime, time
 import numpy as np
 import matplotlib.pyplot as plt

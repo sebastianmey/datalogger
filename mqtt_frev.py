@@ -1,14 +1,5 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-"""
-Created on Mi Okt 21 16:14:50 2015
-
-@author:    Sebastian Mey
-            Institut für Kernphysik
-            Forschungszentrum Jülich GmbH
-            
-            s.mey@fz-juelich.de
-"""
 import getpass, getopt, os, sys, time
 import paramiko
 from scp import SCPClient

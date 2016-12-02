@@ -1,11 +1,6 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
-
 """
-Created on Th June 04 12:55:56 2015
-@author:    Sebastian Mey, Institut für Kernphysik, Forschungszentrum Jülich
-            s.mey@fz-juelich.de
-
 Changelog:  2015-06-06: improved exception handling in case of non-converging fits.
             2015-06-12: reworked fit routine to use the transmitted historgrams' maximum as start value
             2015-06-13: replaced error output in the plot by FWHM
